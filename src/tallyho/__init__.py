@@ -1,4 +1,4 @@
-from topytxt import Todo, Task
+from tallies import Todo, Task
 
 if __name__ == "__main__":
     td = Todo("todo.txt")
